@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196f3</color>
+    <color name="primary">#2196f3</color>
+    <color name="primary_dark">#1d34da</color>
+    <color name="colorPrimaryDark">#1d34da</color>
+    <color name="colorAccent">#2c2d32</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="rightNav">#032e63</color>
+    <color name="purple_500">#032e63</color>
+    <color name="teal_200">#032e63</color>
+    <color name="teal_700">#032e63</color>
+    <color name="white">#032e63</color>
+    <color name="black">#032e63</color>
+    <color name="loadingColor">#2c2d32</color>
+</resources>
